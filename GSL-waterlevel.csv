@@ -1,0 +1,69 @@
+#
+#
+# US Geological Survey, Water Resources Data
+# retrieved: 2023-03-07 16:31:07 EST      (sdww02)
+#
+# This file contains USGS Surface-Water Annual Statistics
+#
+# Note:The statistics generated from  this site are based on approved daily-mean data and may not match those published by the USGS in official publications.
+# The user is responsible for assessment and use of statistics from this site.
+# For more details on why the statistics may not match, visit https://waterdata.usgs.gov/nwis/?dv_statistics_disclaimer.
+#
+# ** No Incomplete data have been used for statistical calculation
+#
+# This file includes the following columns:
+#
+#
+# agency_cd  agency code
+# site_no    USGS site number
+# parameter_cd
+# ts_id
+# year_nu    Water year for value
+# mean_va    annual-mean value.
+#             if there is not complete record
+#             for a year this field is blank
+#
+#
+# Sites in this file include:
+# USGS 10010100 GREAT SALT LAKE NEAR SALINE, UT
+# 
+# Explanation of Parameter Code and ts_id used in the Statistics Data 
+# parameter_cd	Parameter Name					ts_id	Location Name
+# 62614		Lake or reservoir water surface elevation above NGVD 1929, feet		178324	elevation
+#
+#
+agency_cd	site_no	parameter_cd	ts_id	year_nu	mean_va
+5s	15s	5s	3n	4s	12n
+USGS	10010100	62614	178324	1990	4203.492
+USGS	10010100	62614	178324	1991	4201.284
+USGS	10010100	62614	178324	1992	4199.492
+USGS	10010100	62614	178324	1993	4197.561
+USGS	10010100	62614	178324	1994	4197.488
+USGS	10010100	62614	178324	1995	4197.572
+USGS	10010100	62614	178324	1996	4197.704
+USGS	10010100	62614	178324	1997	4198.192
+USGS	10010100	62614	178324	1998	4200.639
+USGS	10010100	62614	178324	1999	4202.446
+USGS	10010100	62614	178324	2000	4202.113
+USGS	10010100	62614	178324	2001	4200.363
+USGS	10010100	62614	178324	2002	4198.499
+USGS	10010100	62614	178324	2003	4196.715
+USGS	10010100	62614	178324	2004	4194.889
+USGS	10010100	62614	178324	2005	4194.943
+USGS	10010100	62614	178324	2006	4195.931
+USGS	10010100	62614	178324	2007	4196.036
+USGS	10010100	62614	178324	2008	4194.655
+USGS	10010100	62614	178324	2009	4194.015
+USGS	10010100	62614	178324	2010	4194.024
+USGS	10010100	62614	178324	2011	4195.002
+USGS	10010100	62614	178324	2012	4197.045
+USGS	10010100	62614	178324	2013	4195.589
+USGS	10010100	62614	178324	2014	4193.936
+USGS	10010100	62614	178324	2015	4192.242
+USGS	10010100	62614	178324	2016	4190.488
+USGS	10010100	62614	178324	2017	4192.247
+USGS	10010100	62614	178324	2018	4193.315
+USGS	10010100	62614	178324	2019	4192.816
+USGS	10010100	62614	178324	2020	4193.308
+USGS	10010100	62614	178324	2021	4191.634
+USGS	10010100	62614	178324	2022	4190.078
